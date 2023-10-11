@@ -1,1 +1,0 @@
-SUCCESS - ${email} : ${password}
